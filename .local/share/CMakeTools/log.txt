@@ -1,0 +1,89 @@
+2025-05-15T19:47:35.351Z [debug] [main] Safe constructing new CMakeProject instance
+2025-05-15T19:47:35.351Z [debug] [variant] Constructing VariantManager
+2025-05-15T19:47:35.351Z [debug] [main] Constructing new CMakeProject instance
+2025-05-15T19:47:35.352Z [debug] [main] Starting CMake Tools second-phase init
+2025-05-15T19:47:35.352Z [debug] [expand] expanded ${workspaceFolder}
+2025-05-15T19:47:35.353Z [debug] [kit] Reading kits file /Users/kajalkumari/.local/share/CMakeTools/cmake-tools-kits.json
+2025-05-15T19:47:35.380Z [info] [kit] Successfully loaded 1 kits from /Users/kajalkumari/.local/share/CMakeTools/cmake-tools-kits.json
+2025-05-15T19:47:35.383Z [debug] [kit] Not reading non-existent kits file: /Users/kajalkumari/ecommerce/.vscode/cmake-kits.json
+2025-05-15T19:47:35.392Z [info] [variant] Loaded new set of variants
+2025-05-15T19:47:35.398Z [debug] [main] CMakeProject instance initialization complete.
+2025-05-15T19:47:42.466Z [debug] [main] Not starting CMake driver: no kit selected
+2025-05-15T19:48:06.278Z [debug] [extension] Deactivate CMakeTools
+MakeTools
+eTools
+:35.445Z [debug] [kit] Scanning directory /opt/homebrew/bin for compilers
+2025-04-21T07:24:35.445Z [debug] [kit] Scanning directory /Library/Frameworks/Python.framework/Versions/3.13/bin for compilers
+2025-04-21T07:24:35.445Z [debug] [kit] Scanning directory /Library/Frameworks/Python.framework/Versions/3.12/bin for compilers
+2025-04-21T07:24:35.445Z [debug] [kit] Scanning directory /usr/local/bin for compilers
+2025-04-21T07:24:35.445Z [debug] [kit] Scanning directory /usr/bin for compilers
+2025-04-21T07:24:35.445Z [debug] [kit] Scanning directory /bin for compilers
+2025-04-21T07:24:35.445Z [debug] [kit] Scanning directory /System/Cryptexes/App/usr/bin for compilers
+2025-04-21T07:24:35.445Z [debug] [kit] Scanning directory /usr/sbin for compilers
+2025-04-21T07:24:35.445Z [debug] [kit] Scanning directory /sbin for compilers
+2025-04-21T07:24:35.445Z [debug] [kit] Skipping scan of not existing path /var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin
+2025-04-21T07:24:35.445Z [debug] [kit] Found 0 kits in directory /var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin
+2025-04-21T07:24:35.446Z [debug] [kit] Skipping scan of not existing path /var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin
+2025-04-21T07:24:35.446Z [debug] [kit] Found 0 kits in directory /var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin
+2025-04-21T07:24:35.446Z [debug] [kit] Skipping scan of not existing path /Users/kajalkumari/.npm-global/bin
+2025-04-21T07:24:35.446Z [debug] [kit] Found 0 kits in directory /Users/kajalkumari/.npm-global/bin
+2025-04-21T07:24:35.446Z [debug] [kit] Skipping scan of not existing path /var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin
+2025-04-21T07:24:35.446Z [debug] [kit] Found 0 kits in directory /var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin
+2025-04-21T07:24:35.446Z [debug] [kit] Skipping scan of not existing path Unknown command
+2025-04-21T07:24:35.446Z [debug] [kit] Found 0 kits in directory Unknown command
+2025-04-21T07:24:35.446Z [debug] [kit] Skipping scan of not existing path  "bin"
+
+To see a list of supported npm commands, run
+2025-04-21T07:24:35.446Z [debug] [kit] Found 0 kits in directory  "bin"
+
+To see a list of supported npm commands, run
+2025-04-21T07:24:35.446Z [debug] [kit] Skipping scan of not existing path 
+  npm help
+2025-04-21T07:24:35.446Z [debug] [kit] Found 0 kits in directory 
+  npm help
+2025-04-21T07:24:35.446Z [debug] [kit] Skipping scan of not existing path undefined\LLVM\bin
+2025-04-21T07:24:35.446Z [debug] [kit] Found 0 kits in directory undefined\LLVM\bin
+2025-04-21T07:24:35.446Z [debug] [kit] Skipping scan of not existing path undefined\msys64\mingw32\bin
+2025-04-21T07:24:35.446Z [debug] [kit] Found 0 kits in directory undefined\msys64\mingw32\bin
+2025-04-21T07:24:35.447Z [debug] [kit] Skipping scan of not existing path undefined\msys64\mingw64\bin
+2025-04-21T07:24:35.447Z [debug] [kit] Found 0 kits in directory undefined\msys64\mingw64\bin
+2025-04-21T07:24:35.447Z [debug] [kit] Skipping scan of not existing path undefined\msys64\clang32\bin
+2025-04-21T07:24:35.447Z [debug] [kit] Found 0 kits in directory undefined\msys64\clang32\bin
+2025-04-21T07:24:35.447Z [debug] [kit] Skipping scan of not existing path undefined\msys64\clang64\bin
+2025-04-21T07:24:35.447Z [debug] [kit] Found 0 kits in directory undefined\msys64\clang64\bin
+2025-04-21T07:24:35.447Z [debug] [kit] Skipping scan of not existing path undefined\msys64\clangarm64\bin
+2025-04-21T07:24:35.447Z [debug] [kit] Found 0 kits in directory undefined\msys64\clangarm64\bin
+2025-04-21T07:24:35.447Z [debug] [kit] Skipping scan of not existing path undefined\msys64\ucrt64\bin
+2025-04-21T07:24:35.447Z [debug] [kit] Found 0 kits in directory undefined\msys64\ucrt64\bin
+2025-04-21T07:24:35.453Z [debug] [kit] Found 0 kits in directory /opt/homebrew/bin
+2025-04-21T07:24:35.454Z [debug] [kit] Found 0 kits in directory /Library/Frameworks/Python.framework/Versions/3.13/bin
+2025-04-21T07:24:35.454Z [debug] [kit] Found 0 kits in directory /usr/local/bin
+2025-04-21T07:24:35.455Z [debug] [kit] Found 0 kits in directory /Library/Frameworks/Python.framework/Versions/3.12/bin
+2025-04-21T07:24:35.455Z [debug] [kit] Found 0 kits in directory /System/Cryptexes/App/usr/bin
+2025-04-21T07:24:35.455Z [debug] [kit] Found 0 kits in directory /bin
+2025-04-21T07:24:35.458Z [debug] [kit] Found 0 kits in directory /sbin
+2025-04-21T07:24:35.462Z [debug] [kit] Found 0 kits in directory /usr/sbin
+2025-04-21T07:24:35.464Z [debug] [kit] Testing Clang binary: /usr/bin/clang
+2025-04-21T07:24:35.464Z [info] [proc] Executing command: /usr/bin/clang -v
+2025-04-21T07:24:35.467Z [debug] [kit] Testing GCC binary: /usr/bin/gcc
+2025-04-21T07:24:35.467Z [info] [proc] Executing command: /usr/bin/gcc -v
+2025-04-21T07:24:35.470Z [debug] [kit] Testing GCC binary: /usr/bin/llvm-gcc
+2025-04-21T07:24:35.470Z [info] [proc] Executing command: /usr/bin/llvm-gcc -v
+2025-04-21T07:24:38.606Z [debug] [kit] Detected Clang compiler: /usr/bin/clang
+2025-04-21T07:24:38.606Z [debug] [kit] Detected Clang compiler: /usr/bin/clang
+2025-04-21T07:24:38.606Z [debug] [kit] Bad GCC binary. "/usr/bin/llvm-gcc -v" reports version:  output: Apple clang version 17.0.0 (clang-1700.0.13.3)
+Target: arm64-apple-darwin24.4.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+
+2025-04-21T07:24:38.738Z [debug] [kit] Bad GCC binary. "/usr/bin/gcc -v" reports version:  output: Apple clang version 17.0.0 (clang-1700.0.13.3)
+Target: arm64-apple-darwin24.4.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+
+2025-04-21T07:24:38.738Z [debug] [kit] Found 1 kits in directory /usr/bin
+2025-04-21T07:24:38.738Z [info] [kit] Found Kit (trusted): Clang 17.0.0 arm64-apple-darwin24.4.0
+2025-04-21T07:24:38.739Z [debug] [kitsController] Saving kits to /Users/kajalkumari/.local/share/CMakeTools/cmake-tools-kits.json
+2025-04-21T07:24:38.739Z [debug] [kitsController] Saving new kits to /Users/kajalkumari/.local/share/CMakeTools/cmake-tools-kits.json
+2025-04-21T07:24:40.343Z [debug] [main] Not starting CMake driver: no kit selected
+2025-04-21T07:31:32.072Z [debug] [extension] Deactivate CMakeTools
