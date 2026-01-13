@@ -1,0 +1,44 @@
+
+@import "tailwindcss";
+
+/* Prevent layout shifts and improve stability */
+html {
+  overflow-y: scroll; /* Always show scrollbar to prevent jumping */
+  scroll-behavior: auto; /* Disable smooth scroll to prevent jumping */
+}
+
+::-webkit-scrollbar{
+  display: none;
+}
+
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+}
+
+/* Ensure stable layout */
+* {
+  box-sizing: border-box;
+}
+
+/* Prevent layout shifts during navigation */
+body {
+  margin: 0;
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+/* CSS containment for better performance */
+.sidebar-container {
+  contain: layout style paint;
+  will-change: auto;
+  transform: translateZ(0);
+  backface-visibility: hidden;
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+  .custom-md {
+    margin-left: 3rem;
+  }
+}
